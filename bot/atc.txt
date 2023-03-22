@@ -40,7 +40,7 @@
 	<script>
 		var LANG = "en";
 		var userScreenName = "";
-		var csrfToken = "Xj8Zb+tBTD+JYnjthB6Kc2JIAjX1jF6L6RRwhHBIhrM="
+		var csrfToken = "KPOn212Tv813ZEaI9pmL6aRrGSMD5CEPDx451RNYLuU="
 	</script>
 	<script src="//img.atcoder.jp/public/f4963b2/js/utils.js"></script>
 	
@@ -112,7 +112,7 @@
 	</nav>
 
 	<form method="POST" name="form_logout" action="/logout?continue=https%3A%2F%2Fatcoder.jp%2Fcontests%2F">
-		<input type="hidden" name="csrf_token" value="Xj8Zb&#43;tBTD&#43;JYnjthB6Kc2JIAjX1jF6L6RRwhHBIhrM=" />
+		<input type="hidden" name="csrf_token" value="KPOn212Tv813ZEaI9pmL6aRrGSMD5CEPDx451RNYLuU=" />
 	</form>
 	<div id="main-container" class="container"
 		 	style="">
