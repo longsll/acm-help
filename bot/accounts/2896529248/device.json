@@ -1,0 +1,38 @@
+{
+    "product": "STAARi 10",
+    "device": "AQUA_LIONS_X1_PLUS",
+    "board": "AQUA_LIONS_X1_PLUS",
+    "brand": "Intex",
+    "model": "INTEX IP0218ND",
+    "wifi_ssid": "TP-LINK_ZL7XVO",
+    "android_id": "7269716",
+    "boot_id": "cf5aba7e-d603-add4-69a5-923c84cee28e",
+    "proc_version": "Linux version 4.5.66-XxvoOBma (android-build@3add469a5923.source.android.com)",
+    "mac_address": "CF:5A:BA:7E:D6:03",
+    "ip_address": [
+        188,
+        202,
+        190,
+        201
+    ],
+    "imei": "628553630186627",
+    "incremental": "1600572496",
+    "protocol": 2,
+    "display": "7269716",
+    "finger_print": "Intex/STAARi 10/AQUA_LIONS_X1_PLUS:10/7269716/1600572496:user/release-keys",
+    "baseband": "",
+    "sim": "T-Mobile",
+    "os_type": "android",
+    "bootloader": "U-boot",
+    "wifi_bssid": "CF:5A:BA:7E:D6:03",
+    "apn": "wifi",
+    "version": {
+        "incremental": "1600572496",
+        "release": "10",
+        "codename": "REL",
+        "sdk": 29
+    },
+    "imsi_md5": "ee5772eecbdac2c2e690bfe821eb575d",
+    "vendor_name": "Intex",
+    "vendor_os_name": "android"
+}
